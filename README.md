@@ -2,7 +2,7 @@
 # Soy Jonathan "Jota" Fierro 👨🏻‍💻✨🚀
 
 > Full-stack (base backend) · React · NestJS · MongoDB · Flutter · construyo con un proceso **spec-driven**.
-> 🔗 [jotafierro.me](https://jotafierro.me) · 🎥 [YouTube @fierrojota](https://www.youtube.com/@fierrojota)
+> 🔗 [fierrojota.com](https://fierrojota.com) · 🎥 [YouTube @fierrojota](https://www.youtube.com/@fierrojota)
 
 Disfruto creando sistemas, sitios web y aplicaciones móviles. Lo que considero esencial:
 
