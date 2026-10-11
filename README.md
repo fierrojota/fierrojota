@@ -2,7 +2,7 @@
 # Soy Jonathan "Jota" Fierro 👨🏻‍💻✨🚀
 
 > Full-stack (base backend) · React · NestJS · MongoDB · Flutter · construyo con un proceso **spec-driven**.
-> 🔗 [jotafierro.me](https://jotafierro.me)
+> 🔗 [jotafierro.me](https://jotafierro.me) · 🎥 [YouTube @fierrojota](https://www.youtube.com/@fierrojota)
 
 Disfruto creando sistemas, sitios web y aplicaciones móviles. Lo que considero esencial:
 
@@ -17,9 +17,9 @@ Actualmente soy parte del equipo de ingeniería de [Fz Sports](https://www.fzspo
 ## 🛠 Proyectos
 
 - **[aura](https://aura-dev.jotafierro.me/)** — *Master Your Soul*: un RPG mítico de la vida real impulsado por Karma y logros del Panteón griego. React · NestJS · MongoDB · Flutter. *(en desarrollo)*
-- **[j-flow](https://github.com/jotafierro/j-flow)** — framework open source de **Spec-Driven Development** (MongoDB · NestJS · React · Flutter).
-- **[superclean](https://github.com/jotafierro/superclean)** — CLI para limpiar cachés, logs y basura en macOS. Publicada en [npm](https://www.npmjs.com/package/@jotafierro/superclean).
-- **[me](https://github.com/jotafierro/me)** — [jotafierro.me](https://jotafierro.me), mi sitio, construido con el mismo proceso spec-driven (React · Vite).
+- **[j-flow](https://github.com/fierrojota/j-flow)** — framework open source de **Spec-Driven Development** (MongoDB · NestJS · React · Flutter).
+- **[superclean](https://github.com/fierrojota/superclean)** — CLI para limpiar cachés, logs y basura en macOS. Publicada en [npm](https://www.npmjs.com/package/@jotafierro/superclean).
+- **[me](https://github.com/fierrojota/me)** — [jotafierro.me](https://jotafierro.me), mi sitio, construido con el mismo proceso spec-driven (React · Vite).
 
 ## 💻 Stack
 
