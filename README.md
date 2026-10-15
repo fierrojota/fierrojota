@@ -23,7 +23,7 @@ Cada semana comparto en [@fierrojota](https://www.youtube.com/@fierrojota) cómo
 
 ## 🛠 Proyectos
 
-- **[aura](https://aura-dev.jotafierro.me/)** — *Master Your Soul*: un RPG mítico de la vida real impulsado por Karma y logros del Panteón griego. React · NestJS · MongoDB · Flutter. *(en desarrollo)*
+- **[now](https://github.com/fierrojota/now-skill-demo)** — skill de Claude Code que responde *"¿qué hago ahora?"* en 3 líneas: cruza la hora, tu grilla semanal y tu sprint. Solo lectura. Es el template del [video 1](https://youtu.be/utNbTEwnnLc).
 - **[j-flow](https://github.com/fierrojota/j-flow)** — framework open source de **Spec-Driven Development** (MongoDB · NestJS · React · Flutter).
 - **[superclean](https://github.com/fierrojota/superclean)** — CLI para limpiar cachés, logs y basura en macOS. Publicada en [npm](https://www.npmjs.com/package/@jotafierro/superclean).
 - **[me](https://github.com/fierrojota/me)** — [fierrojota.com](https://fierrojota.com), mi sitio, construido con el mismo proceso spec-driven (React · Vite).
