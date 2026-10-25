@@ -16,10 +16,11 @@ Actualmente soy parte del equipo de ingeniería de [Fz Sports](https://www.fzspo
 
 ## 🎥 Canal de YouTube
 
-Cada semana comparto en [@fierrojota](https://www.youtube.com/@fierrojota) cómo le pongo proceso a mi vida, en tres ejes: **ingeniería y carrera**, **vida en construcción** (familia, básquetbol, frustraciones reales) y **biblioteca** (libros y anime).
+Cada semana intento subir un video a [@fierrojota](https://www.youtube.com/@fierrojota) sobre cómo le pongo proceso a mi vida, en tres ejes: **ingeniería y carrera**, **vida en construcción** (familia, básquetbol, frustraciones reales) y **biblioteca** (libros y anime).
 
 - ▶️ [¿Qué hago ahora?](https://youtu.be/utNbTEwnnLc) — el comando `/now` que le pregunta a mi terminal qué hacer primero. Template: [now-skill-demo](https://github.com/fierrojota/now-skill-demo).
 - ▶️ [Me perdí las finales por una lesión](https://youtu.be/GMUrS4w09RY) — lo que le diría a mi yo de 15 años.
+- ▶️ [Pedí un crédito para pagar otro crédito (y armé una app con IA)](https://youtu.be/5OsH1V_EqMs) — la regla 50-30-20 y un prototipo de app de presupuesto con Gemini + Canvas y Claude + Artifacts. Prompts: [gist](https://gist.github.com/fierrojota/99e9e69a6c3b0a186792fb9f01385baf). Primera parte de la serie [Del prototipo a app real](https://www.youtube.com/playlist?list=PLfvJiH1vO9Jo).
 
 ## 🛠 Proyectos
 
