@@ -16,7 +16,7 @@ Actualmente soy parte del equipo de ingeniería de [Fz Sports](https://www.fzspo
 
 ## 🎥 Canal de YouTube
 
-Cada video subido a [@fierrojota](https://www.youtube.com/@fierrojota) habla sobre cómo le pongo proceso a mi vida, en tres ejes: **ingeniería y carrera**, **vida en construcción** (familia, básquetbol, frustraciones reales) y **biblioteca** (libros y anime).
+Cada video subido a [@fierrojota](https://www.youtube.com/@fierrojota) muestra cómo le pongo proceso a mi vida, en tres ejes: **ingeniería y carrera**, **vida en construcción** (familia, básquetbol, frustraciones reales) y **biblioteca** (libros y anime).
 
 - ▶️ [¿Qué hago ahora?](https://youtu.be/utNbTEwnnLc) — el comando `/now` que le pregunta a mi terminal qué hacer primero. Template: [now-skill-demo](https://github.com/fierrojota/now-skill-demo).
 - ▶️ [Me perdí las finales por una lesión](https://youtu.be/GMUrS4w09RY) — lo que le diría a mi yo de 15 años.
